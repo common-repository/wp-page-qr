@@ -1,0 +1,12 @@
+*
+* ToDo List - WP Page QR 
+*
+*******************************
+
+- Options dans le marqueur (prend le pas sur la config générale)
+- Vérification du slash a la fin de l'url et du path pour "cache/"
+- Nettoyage du dossier de cache
+- Page du cache
+- Onglets dans le setting panel
+- Options du template tag
+- option : seulement single ou partout (pour le template tag)
